@@ -11,14 +11,14 @@
 
 - 🎓 I’m currently studying **Software Engineering** at **Near East University**, Nicosia  
 - 💻 I’m actively working on:
-  - A **Web Scraping System** that collects and stores daily news using `Python`, `BeautifulSoup`, and `MySQL`
+  - A **Web Scraping System** that collects and stores daily news using `Python`, `C++`, and `MySQL`
   - A dynamic **Flask Web App** with user registration, login, and database integration  
 - 🌱 I’m learning:
   - Django, RESTful APIs, and advanced database design  
 - 🧠 I enjoy solving problems using algorithms and data structures  
 - 📫 Reach me:  
   - 📧 iso.sk861@gmail.com  
-  - 📞 +90 533 386 91 08  
+  - 📞 +90 533 836 91 08  
   - 🌐 [GitHub](https://github.com/ismailkaradayii/ismailkaradayi)
 
 ---
