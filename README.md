@@ -1,50 +1,210 @@
-<h1 align="center">Hi there 👋, I'm İsmail Karadayı</h1>
-<h3 align="center">A passionate software engineering student from Near East University</h3>
+<h1 align="center">Hi 👋, I'm İsmail Karadayı</h1>
+
+<h3 align="center">
+Software Engineering Student • Full-Stack Developer • Game Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Python+%7C+Flask+%7C+MySQL+Developer;Always+Learning+and+Building&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+%40+Near+East+University;Full-Stack+Web+Development;Game+Development;AI-Assisted+Software+Development;Always+Building+%26+Learning&center=true&width=700&height=45">
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I’m currently studying **Software Engineering** at **Near East University**, Nicosia  
-- 💻 I’m actively working on:
-  - A **Web Scraping System** that collects and stores daily news using `Python`, `C++`, and `MySQL`
-  - A dynamic **Flask Web App** with user registration, login, and database integration  
-- 🌱 I’m learning:
-  - Django, RESTful APIs, and advanced database design  
-- 🧠 I enjoy solving problems using algorithms and data structures  
-- 📫 Reach me:  
-  - 📧 iso.sk861@gmail.com  
-  - 📞 +90 533 836 91 08  
-  - 🌐 [GitHub](https://github.com/ismailkaradayii/ismailkaradayi)
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailkaradayii&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkaradayii&layout=compact&theme=radical" width="45%"/>
+  <img src="https://komarev.com/ghpvc/?username=ismailkaradayii&label=Profile%20Views&style=flat-square" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## 👨‍💻 About Me
 
-> "I enjoy turning problems into elegant and practical solutions through code."
+I'm a **Software Engineering student at Near East University** with a strong interest in building real-world software products.
+
+My work spans **full-stack web development, game development, web scraping, databases, AI-assisted development, and software architecture**.
+
+I enjoy taking ideas from an early concept and turning them into working applications — from architecture and database design to frontend, backend, gameplay systems, testing, and deployment.
+
+* 🎓 Studying **Software Engineering** at **Near East University**
+* 🌐 Building modern web applications with **Next.js, TypeScript and React**
+* 🎮 Actively working on **game development projects**
+* 🤖 Using modern AI development tools to accelerate software development and debugging
+* 🗄️ Working with **PostgreSQL, MySQL, Prisma and database-driven applications**
+* 🕷️ Experienced with **web scraping and automated data collection**
+* 🧠 Interested in **algorithms, software architecture and problem solving**
+* 🔐 Exploring **Cybersecurity** as a future specialization
+* 🚀 Interested in **startups, technology products and scalable software**
+
+---
+
+## 🚀 What I'm Currently Building
+
+### 🎮 Game Development
+
+I'm actively working on game development projects and improving my experience in building interactive software and gameplay systems.
+
+Some project details are intentionally kept private due to **confidentiality and company policies**.
+
+My work involves areas such as:
+
+* Gameplay programming
+* Game systems
+* Multiplayer concepts
+* AI systems
+* Level development
+* Debugging and optimization
+* Software architecture for games
+
+---
+
+### 🌐 GÜGED
+
+A modern web platform developed for **Güzelyurt Gençlik Derneği**.
+
+The system includes event management, galleries, member registrations, administrative tools and data export functionality.
+
+**Tech:**
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Prisma` `PostgreSQL` `NextAuth` `Zod` `Cloudinary` `ExcelJS`
+
+🔗 [View Repository](https://github.com/ismailkaradayii/guged)
+
+---
+
+### 🕷️ Web Scraping System
+
+A web scraping project focused on automatically collecting and processing structured information from online sources.
+
+The project evolved through different scraping approaches and became part of my university software engineering work.
+
+**Tech:** `Python` `Web Scraping` `Data Processing` `Automation`
+
+🔗 [View Repository](https://github.com/ismailkaradayii/webScrappingInternship)
+
+---
+
+### 🌍 Web Projects
+
+I also build and deploy websites for real-world organizations and businesses, working with:
+
+* Responsive frontend development
+* Domain and DNS configuration
+* Deployment workflows
+* Git / GitHub based development
+* Authentication
+* Database integration
+* Admin dashboards
+* Content management systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp,html,css" />
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,flask" />
+</p>
+
+### Databases & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
+
+### Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+</p>
+
+---
+
+## 🤖 AI-Assisted Development
+
+I actively integrate modern AI development tools into my workflow for:
+
+* Code analysis
+* Debugging
+* Architecture decisions
+* Refactoring
+* Rapid prototyping
+* Exploring large codebases
+* Development automation
+
+My focus is not simply generating code with AI, but using AI as an **engineering tool alongside traditional software development practices**.
+
+---
+
+## 🧠 Areas I'm Exploring
+
+```text
+Software Engineering
+├── Full-Stack Development
+├── Game Development
+├── Backend Architecture
+├── Databases
+├── Web Scraping & Automation
+├── Artificial Intelligence
+└── Cybersecurity
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ismailkaradayii&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkaradayii&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## 🎯 Long-Term Goals
+
+I'm focused on becoming a strong software engineer capable of designing and building complete software systems.
+
+My long-term interests include:
+
+* Building scalable technology products
+* Advanced software engineering
+* Cybersecurity
+* Artificial Intelligence
+* Game development
+* Entrepreneurship and technology startups
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:iso.sk861@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ismailkaradayii">
+    <img src="https://img.shields.io/badge/GitHub-ismailkaradayii-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into working software, one project at a time."</i>
+</p>
+
+
