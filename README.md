@@ -63,8 +63,6 @@ The system includes event management, galleries, member registrations, administr
 **Tech:**
 `Next.js` `TypeScript` `React` `Tailwind CSS` `Prisma` `PostgreSQL` `NextAuth` `Zod` `Cloudinary` `ExcelJS`
 
-🔗 [View Repository](https://github.com/ismailkaradayii/guged)
-
 ---
 
 ### 🕷️ Web Scraping System
