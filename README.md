@@ -73,8 +73,6 @@ The project evolved through different scraping approaches and became part of my 
 
 **Tech:** `Python` `Web Scraping` `Data Processing` `Automation`
 
-🔗 [View Repository](https://github.com/ismailkaradayii/webScrappingInternship)
-
 ---
 
 ### 🌍 Web Projects
